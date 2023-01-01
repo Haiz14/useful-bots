@@ -2,7 +2,10 @@
 
 - The bots have to be written in **js or python** (if you know both, its fantastic)
 
-- the bots can be hosted on [fly](https://fly.io/docs/about/pricing) they have free tier  tutorial [python](https://jonahlawrence.hashnode.dev/hosting-a-python-discord-bot-for-free-with-flyio), [js](https://sevic.dev/nodejs-deployment-flyio/) (note: if you have better tutorial, plss create an issue)
+- the bots can be hosted on [fly](https://fly.io/docs/about/pricing) they have free tier.
+	- tutorial for deployment on fly
+		- [python](https://jonahlawrence.hashnode.dev/hosting-a-python-discord-bot-for-free-with-flyio)
+		- [js](https://sevic.dev/nodejs-deployment-flyio/) (note: if you have better tutorial, plss create an issue)
 
 
 ## Discord Bots
