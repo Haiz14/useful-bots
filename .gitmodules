@@ -1,0 +1,6 @@
+[submodule "adele"]
+	path = adele
+	url = https://github.com/haiz14/adele
+[submodule "denzel"]
+	path = denzel
+	url = https://github.com/haiz14/denzel
