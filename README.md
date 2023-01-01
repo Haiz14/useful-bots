@@ -1,2 +1,3 @@
 # useful-bots
-Python and js bots i have made
+
+Bots i have written in js and python
