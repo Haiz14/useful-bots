@@ -2,5 +2,5 @@
 
 Bots i have written in js and python
 
-- [denzel](./denzel) an all purpose bot (python)
-- [adele](./adele) a game bot (js)
+- [denzel](https://github.com/Haiz14/denzel) an all purpose bot (python)
+- [adele](https://github.com/Haiz14/adele) a game bot (js)
