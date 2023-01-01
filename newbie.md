@@ -13,3 +13,7 @@ You should be able to do the following
 - embeds: This is a specific way of formatting posts the bots make
 -  Interactions: Forms for interacting with the bot beyond simple commands 
 - Slash commands:  For security reasons Discord now blocks bigger bots from using simple commands
+
+### Here are some sample bots you can make
+
+plss tell me which bots are required
